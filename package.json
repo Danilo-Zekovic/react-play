@@ -1,0 +1,22 @@
+{
+  "name": "react-play",
+  "version": "1.0.0",
+  "description": "Just learning react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danilo-Zekovic/react-play.git"
+  },
+  "author": "Danilo Zekovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danilo-Zekovic/react-play/issues"
+  },
+  "homepage": "https://github.com/Danilo-Zekovic/react-play#readme",
+  "dependencies": {
+    "webpack": "^1.13.0"
+  }
+}
